@@ -7,7 +7,7 @@ now = dt.datetime.now()
 month = now.month
 day = now.day
 
-email = "joshpydevops@gmail.com"
+email = "your_email_where_the_birthday_message_will_be_sent_from"
 password = ""
 
 new_dict = []
